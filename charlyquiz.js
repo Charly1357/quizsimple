@@ -53,7 +53,7 @@ function showQuestion(){
     let questionNo = currentQuestionIndex +1;
     questionElement.innerHTML = questionNo + "." +
     currentQuestion.question;
-    currentQuestion.answer.forEach(answer =>{
+    currentQuestion.answer.forEach(answer => {
         const button = document.createElement("button");
         button.innerHTML = answer.text;
         button.classList.add("btn");
@@ -71,7 +71,7 @@ function resetState(){
     }
 }
 function selectAnswer(e){
-    const selectedBtn =e.target;
+    const selectedBtn = e.target;
     const isCorrect = selectedBtn.dataset.correct === "true";
     if(isCorrect){
         selectedBtn.classList.add("correct");
@@ -87,13 +87,13 @@ function selectAnswer(e){
     });
     nextButton.style.display = "block";
     }
-    function showScore(){
-        resetState();
-        questionElement.innerHTML = 'You scored ${score} out of ${questions.length}!';
-        nextButton.innerHTML = "Play again";
-        nextButton.style.display ="block";
-
-    }
+    
+function showScore() {
+    resetState();
+    questionElement.innerHTML = `You scored ${score} out of ${questions.length}!`;
+    nextButton.innerHTML = "Play again";
+    nextButton.style.display = "block";
+}
     function handleNextButton(){
         currentQuestionIndex++;
         if(currentQuestionIndex<questions.length){
