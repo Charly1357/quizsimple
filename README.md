@@ -21,7 +21,8 @@
 
 * Credits
     * Code
-    * Design
+    
+# Design
   
 This is a quizsimple game .  
 It has a very short Javascript Code to demostrate what is possible.  
