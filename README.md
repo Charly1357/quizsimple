@@ -1,3 +1,4 @@
+[Responsive](https://ui.dev/amiresponsive?url=https://charly1357.github.io/quizsimple/)
 [Link to live site](https://charly1357.github.io/quizsimple)
 # Index -Table of Contents
 ***
