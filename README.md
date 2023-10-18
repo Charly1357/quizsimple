@@ -9,10 +9,12 @@
     -Font and Colours
     
 -Features
+
     -Existing Features
     -Future Features
     
 -UX
+
    -Goals
    
 -Testing
@@ -22,7 +24,9 @@
    -Manual Testing
    
 -Deployment
+
 -Credits
+
    -Code
   
   *Design
