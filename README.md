@@ -3,25 +3,25 @@
 # Index -Table of Contents
 ***
 
- -Design
+ * Design
  
-    -Wireframes
-    -Font and Colours
+    * Wireframes
+    * Font and Colours
     
-*Features
-    *Existing Features
-    *Future Features
-*UX
-    *Goals
-*Testing
-    *Validator
-    *Browser
-    *Manual Testing
-*Deployment
+* Features
+    * Existing Features
+    * Future Features
+* UX
+    * Goals
+* Testing
+    * Validator
+    * Browser
+    * Manual Testing
+* Deployment
 
-*Credits
-    *Code
-    *Design
+* Credits
+    * Code
+    * Design
   
   This is a quizsimple game .
   It has a very short Javascript Code to demostrate what is possible.
