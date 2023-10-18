@@ -23,9 +23,9 @@
     * Code
     * Design
   
-This is a quizsimple game .
-It has a very short Javascript Code to demostrate what is possible.
+This is a quizsimple game .  
+It has a very short Javascript Code to demostrate what is possible.  
 There are four questions where each has four different answers.
-You can only choose once per question and the different colors indicate  if it was correct or false.
-  
-  At the end it shows you the number of correct answer out of the total.
+You can only choose once per question and the different colors indicate it was correct or false.   
+
+At the end it shows you the number of correct answer out of the total.
