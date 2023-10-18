@@ -66,3 +66,5 @@ simple it didn´t  crash.
   * Document checking completed. No errors or warnings to show.   
   
 * CSS
+ * Document checking completed. No errors or warnings to show.   
+   
