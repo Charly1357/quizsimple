@@ -18,11 +18,8 @@
    -Goals
    
 -Testing
-
    -Validator
-   
    -Browser
-   
    -Manual Testing
    
 -Deployment
