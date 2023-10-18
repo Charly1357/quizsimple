@@ -30,3 +30,24 @@ There are four questions where each has four different answers.
 You can only choose once per question and the different   
 colors indicate it was correct or false.   
 At the end it shows you the number of correct answer out of the total.
+
+# Features
+
+ At the top left is the Quiz heading 
+
+# The Game Area 
+
+In this part the user can see the Question and choose between   
+four different answers
+
+# The question section 
+
+In this section the user can read the question   
+and the number  and choose between four  
+different buttons the correct answer.   
+If the button is correct the background color changes to green.   
+otherwise  the background color changes to red and the correct    
+answer button is shown with a green background.   
+The buttons are disabled and the next buttons appears   
+After going through the four questions the user gets the result correct    score is a point versus total score.  
+   
