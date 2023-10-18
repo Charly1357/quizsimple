@@ -51,3 +51,18 @@ answer button is shown with a green background.
 The buttons are disabled and the next buttons appears   
 After going through the four questions the user gets the result correct    score is a point versus total score.  
    
+# Features Left to Implement
+
+The user should be able to select between different topics the questions.   
+
+# Testing 
+
+The testing was done between several other people and since it is very    
+simple it didn´t  crash.   
+
+# Validator Testing
+
+* HTML
+  * Document checking completed. No errors or warnings to show.   
+  
+* CSS
